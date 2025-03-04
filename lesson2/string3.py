@@ -1,0 +1,5 @@
+txt = input("Enter smth: ")
+length = len(txt)
+up = txt.upper()
+low = txt.lower()
+print(length, up, low)
